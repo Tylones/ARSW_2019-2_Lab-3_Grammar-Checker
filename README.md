@@ -1,5 +1,21 @@
 # ARSW_2019-2_Lab-3_Grammar-Checker
 
+
+## Name :
+
+```
+Etienne Maxence Eugene REITZ
+GitHub username : Tylones
+```
+
+## Build and test instructions : 
+
+Go in the project directory :
+
+* To build the project , run the command : ```mvn package```
+* To test the project, run the command : ```mvn test```
+
+
 ## Part I - Basic workshop
 
 ### 1)
@@ -60,4 +76,5 @@ To use the SpanishSpellChecker instead of the EnglishSpellChecker, we just have 
 
 Executing the program after doing such changes outputs :
 
-*Spell checking output:revisando (la la la ) con el verificador de sintaxis del espanolPlagiarism checking output: Not available yet*
+```Spell checking output:revisando (la la la ) con el verificador de sintaxis del espanol
+Plagiarism checking output: Not available yet```
